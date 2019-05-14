@@ -1,5 +1,6 @@
 # Additionally-Modified-Round-Robin-Algorithm
 ------> Abstract
+
 Multiprogramming is a process or method of executing multiple processes simultaneously in the
 memory. Its primary aim is to minimize the average waiting time, average turnaround time and
 maximize the CPU utilization. There are various CPU scheduling algorithms are used to
@@ -27,6 +28,7 @@ in terms of minimizing average waiting time, average turnaround time and number 
 switches.
 
 ----->Introduction
+
 
 
 In a lone processor system, processor can run only a solitary methodology at some random
